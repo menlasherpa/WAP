@@ -1,0 +1,50 @@
+
+  .container, body {
+    padding: 0;
+    margin: 0;
+  }
+
+  header {
+    background-color: DarkTurquoise;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+  }
+
+  .navbar {
+    background-color: DarkSlateGrey;
+    color: white;
+    justify-content: flex-start;
+  }
+
+  .menu1, .menu2, .menu3 {
+    padding: 0 5px;
+    border-right: 1px solid black;
+  }
+
+  footer {
+    background-color: DarkSlateGrey;
+    padding: 20px;
+    color: white;
+    text-align: center;
+  }
+
+  .row {
+    text-align: center;
+    padding: 0 15px;
+  }
+
+  .col1 {
+    background-color: Grey;
+    padding: 0;
+  }
+
+  .col2 {
+    background-color: Silver;
+    padding: 0;
+  }
+
+  .col3 {
+    background-color: WhiteSmoke;
+    padding: 0;
+  }
